@@ -1,1 +1,1 @@
-# MicroBlogger Project from JumpstartLab for The Odin Project
+## MicroBlogger Project from JumpstartLab for The Odin Project
